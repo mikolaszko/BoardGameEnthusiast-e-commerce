@@ -23,7 +23,7 @@ const Success = () => {
         <p className='icon'>
           <BsBagCheckFill></BsBagCheckFill>
         </p>
-        <h2>THank you for your order!</h2>
+        <h2>Thank you for your order!</h2>
         <p className='email-msg'>Check your email inbox for your receipt.</p>
         <p className='description'>
           If you have any question, please email
