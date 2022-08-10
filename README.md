@@ -4,7 +4,7 @@ BoardGameEnthusiast
 
 ## Description
 
-Hello everyone! This Next.js w/ Sanity CMS, Sanity e-commerce for board game lovers. Projects like these aka the really complex ones are what drives me forward to be an even better software engineer. BoardGameEnthusiast is such a personal work of mine, it was an absolute pleasure to design in and code it. Couldn't be more happier
+Hello everyone! This Next.js w/ Sanity CMS, Stripe e-commerce for board game lovers. Projects like these aka the really complex ones are what drives me forward to be an even better software engineer. BoardGameEnthusiast is such a personal work of mine, it was an absolute pleasure to design in and code it. Couldn't be more happier
 
 Demo will be in the about section
 
